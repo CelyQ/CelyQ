@@ -1,6 +1,6 @@
 # About Me:
 
-I'm a seasoned full-stack web developer with 5+ years of experience in TypeScript, Node.js, Nest.js, Express, Next.js, React, Redux, Docker, SQL and NoSQL databases, AWS, Google Cloud and Firebase. I'm dedicated to staying up-to-date with the latest industry trends and technologies to provide the best possible solutions for my clients.
+I'm a seasoned full-stack web developer with 4+ years of experience in TypeScript, Node.js, Nest.js, Express, Next.js, React, Redux, Docker, SQL and NoSQL databases, AWS, Google Cloud and Firebase. I'm dedicated to staying up-to-date with the latest industry trends and technologies to provide the best possible solutions for my clients.
 
 With an in-depth understanding of the entire development cycle, I have a proven track record of delivering high-quality solutions that meet or exceed client expectations. I am committed to delivering projects on time and within budget while providing exceptional service.
 

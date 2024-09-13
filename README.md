@@ -5,7 +5,7 @@ I'm a seasoned software engineer with over 5 years of experience in TypeScript, 
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulopmann/)
-[![UpWork](https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/paulopmann2)
+[![UpWork](https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/paulopmann)
 
 ## My stack
 

@@ -1,6 +1,6 @@
 # About Me:
 
-I'm a seasoned software engineer with over 5 years of experience in TypeScript, Node.js, Nest.js, Express, Next.js, React, Redux, Docker, SQL and NoSQL databases, AWS, Google Cloud, and Firebase. I'm dedicated to staying up-to-date with industry trends and technologies and embarking on new fascinating challenges.
+I'm a seasoned software engineer with over 6 years of experience in TypeScript, Node.js, Nest.js, Express, Next.js, React, Redux, Docker, SQL and NoSQL databases, AWS, Google Cloud, and Firebase. I'm dedicated to staying up-to-date with industry trends and technologies and embarking on new fascinating challenges.
 
 ## Contact me
 
